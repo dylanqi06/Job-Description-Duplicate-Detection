@@ -1,0 +1,4 @@
+pymilvus
+pandas
+numpy
+matplotlib
